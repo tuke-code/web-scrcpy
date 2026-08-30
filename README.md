@@ -21,7 +21,7 @@
 | 远程观看 | PeerJS 分享画面给另一浏览器 |
 | 设备侧工具 | 应用管理、Logcat、ADB Shell 终端等 |
 
-建议直接打开 **[在线体验](https://pandatestgrid.github.io/panda-web-scrcpy/)** 查看实时界面
+建议直接打开 **[在线体验](https://pandatestgrid.github.io/PandaScrcpy/)** 查看实时界面
 ---
 
 ## 加强版 PANDAPERF（免费）
